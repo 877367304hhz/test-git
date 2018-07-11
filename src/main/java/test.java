@@ -5,5 +5,12 @@ public class test {
     private String name;
     private String password;
 
-    //好好学习，天天向上
+    public void lianxi(){
+        System.out.println("好好学习，天天向上");
+    }
+
+    public void lianxi1(){
+        System.out.println("好好学习，天天向上");
+    }
+
 }
