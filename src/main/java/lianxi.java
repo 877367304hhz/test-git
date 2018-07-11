@@ -6,6 +6,7 @@ public class lianxi {
     private String password;
 
 
+
     public lianxi() {
     }
 
